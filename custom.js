@@ -1,12 +1,12 @@
 const planets = [
-  ["mercury", 0.3],
-  ["venus", 0.9],
+  ["mercury", 0.378],
+  ["venus", 0.907],
   ["earth", 1],
-  ["mars", 0.3],
-  ["jupiter", 2.5],
-  ["saturn", 1],
-  ["uranus", 0.8],
-  ["neptune", 1.1]
+  ["mars", 0.377],
+  ["jupiter", 2.528],
+  ["saturn", 1.064],
+  ["uranus", 0.889],
+  ["neptune", 1.125]
 ];
 
 function capitalize(str) {
@@ -18,6 +18,7 @@ window.onload = function() {
   let currentPlanet = document.getElementById("planet-item");
   for ([planet, factor] of planets) {
     const nextPlanet = currentPlanet.cloneNode(true);
+    currentPlanet.id = planet + "-item";
     const label = document.getElementById("planet-label");
     label.id = planet + "-label";
     label.innerText = capitalize(planet);
