@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="131" viewBox="0 0 131 131">
+  <g id="mars" transform="translate(-70 -69)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="65.5" cy="65.5" r="65.5" transform="translate(70 69)" fill="#d35e2a"/>
+    <path id="Intersection_3" data-name="Intersection 3" d="M45.563,48.279C26.856,29.393,19.626,23.232,8.089,17.354A34.53,34.53,0,0,1,0,10.711,65.272,65.272,0,0,1,100.542,56.772,150.429,150.429,0,0,0,83,56.965c-3.718.19-7.353.381-10.87.381C62.1,57.346,53.009,55.8,45.563,48.279Z" transform="translate(99.419 69)" fill="#b74410"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M0,65.254A65.265,65.265,0,0,1,101.054,10.688c-14.6,8.819-38.936,9.617-44.632,26.867C48.087,62.8,66.688,79.241,63.5,95.9c-1.6,8.354-11.4,20.539-20.768,30.614A65.281,65.281,0,0,1,0,65.254Z" transform="translate(70 69)" fill="#191919"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M0,65.254A65.255,65.255,0,0,1,109.222,17.035C89.183,24,51.57,17.543,45.537,35.812,37.2,61.053,55.193,61.819,56.048,81.855c.472,11.043-9.16,28.938-17.9,42.774A65.269,65.269,0,0,1,0,65.254Z" transform="translate(70 69)" fill="#913c15"/>
+    <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="18" cy="8.5" rx="18" ry="8.5" transform="translate(118 69)" fill="#fff" opacity="0.466"/>
+  </g>
+</svg>
